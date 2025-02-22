@@ -1,5 +1,4 @@
-# Pharmacy Drug Management System (DBMS Mini Project)
-DBMS Mini Project under 2017 VTU CBCS for 5th semester
+# Pharmacy Drug Management System (DBMS Mini  for 5th semester
 
 ## Instructions
 ### Back End
